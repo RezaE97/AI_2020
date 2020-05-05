@@ -6,7 +6,7 @@ import numpy
 import os
 
 
-def fetchNastaliq(text='شکستنی'):
+def fetchNastaliq(text='شکستگی'):
 
     driver = webdriver.Firefox()
     driver.get('http://nastaliqonline.ir/')
